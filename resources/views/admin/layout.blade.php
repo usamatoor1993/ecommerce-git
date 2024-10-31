@@ -161,8 +161,8 @@
                         <p>2024 &copy; Usama</p>
                     </div>
                     <div class="float-end">
-                        <p>Developed by SoftCon-Pakistan <span class="text-danger"><i class="bi bi-heart"></i></span> by <a
-                                href="https://softconpk.com">Softcon</a></p>
+                        <p>Developed by Naina Shahbaz <span class="text-danger"><i class="bi bi-heart"></i></span> by <a
+                                href="#">Naina Shahbaz</a></p>
                     </div>
                 </div>
             </footer>

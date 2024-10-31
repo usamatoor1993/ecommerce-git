@@ -22,15 +22,22 @@
         </div>
         <div class="col-lg-2 col-md-2 col-6 d-flex flex-column">
           <h6>Contact Us</h6>
+
           <p class="d-flex align-items-center"><img src="{{ asset('client/img/icon-phone.png') }}" alt="" class="img-fluid me-2">{{$shop->phone}}</p>
-          <p class="d-flex align-items-center"><img src="{{ asset('client/img/icon-email.png') }}" alt="" class="img-fluid me-2">hello{!! '@'.str_replace(' ', '', strtolower($shop->name_shop)) !!}.com</p>
+          {{-- <p class="d-flex align-items-center"><img src="{{ asset('client/img/icon-email.png') }}" alt="" class="img-fluid me-2">hello{!! '@'.str_replace(' ', '', strtolower($shop->name_shop)) !!}.com</p> --}}
+          <p class="d-flex align-items-center"><img src="{{ asset('client/img/icon-email.png') }}" alt="" class="img-fluid me-2">naina.s@stu.bia.edu.kw</p>
+          
           <div class="d-lg-block d-md-block d-none">
             <div class="row">
               <div class="col-3">
+                <a href="https://www.instagram.com/advancecomputerkw?igsh=MXJ4NmtkeTFwMnJjdQ==">
                 <img src="{{ asset('client/img/icon-instagram.png') }}" alt="" class="img-fluid">
+                </a>
               </div>
               <div class="col-3">
-                <img src="{{ asset('client/img/icon-tokopedia.png') }}" alt="" class="img-fluid">
+                <a href="https://www.tiktok.com/@advanceshop19?_t=8qyhJTJsIJ6&_r=1">
+                <img src="{{ asset('client/img/tiktok.png') }}" width="50px" alt="" class="img-fluid">
+                </a>
               </div>
               <div class="col-3">
                 <img src="{{ asset('client/img/icon-facebook.png') }}" alt="" class="img-fluid">
@@ -42,9 +49,12 @@
           <h6>Social Media</h6>
           <div class="row">
             <div class="col-3">
+               <a href="https://www.instagram.com/advancecomputerkw?igsh=MXJ4NmtkeTFwMnJjdQ==">
               <img src="{{ asset('client/img/icon-instagram.png') }}" alt="" class="img-fluid">
+               </a>
             </div>
             <div class="col-3">
+             
               <img src="{{ asset('client/img/icon-tokopedia.png') }}" alt="" class="img-fluid">
             </div>
             <div class="col-3">

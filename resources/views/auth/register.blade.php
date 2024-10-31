@@ -21,7 +21,7 @@
             <div class="col-lg-5 col-12">
                 <div id="auth-left">
                     <div class="auth-logo d-flex justify-content-center">
-                      <a href="/"><h1><u>E-Commerce system by Usama Toor</u></h1></a>
+                      <a href="/"><h1><u>E-Commerce system for advance computers</u></h1></a>
                     </div>
                     <h2 class="text-center">Register.</h2>
                     
