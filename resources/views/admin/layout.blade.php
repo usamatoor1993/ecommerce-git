@@ -158,7 +158,7 @@
             <footer>
                 <div class="footer clearfix mb-0 text-muted">
                     <div class="float-start">
-                        <p>2024 &copy; Usama</p>
+                        <p>2024 &copy; Naina</p>
                     </div>
                     <div class="float-end">
                         <p>Developed by Naina Shahbaz <span class="text-danger"><i class="bi bi-heart"></i></span> by <a

@@ -12,6 +12,9 @@
     <a href="{{ route('clientAbout') }}" class="nav-link">About</a>
   </li>
   <li class="nav-item">
+    <a href="{{ route('clientContact') }}" class="nav-link">Contact us</a>
+  </li>
+  <li class="nav-item">
     <a href="{{ route('clientCheckOrder') }}" class="nav-link">Check Order</a>
   </li>
 </ul>

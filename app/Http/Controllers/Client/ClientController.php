@@ -211,4 +211,13 @@ class ClientController extends Controller
 
         return view('client.about', $data);
     }
+    public function contact(){
+        $data = [
+            'shop' => Shop::first(),
+            'title' => 'Contact'
+        ];
+
+
+        return view('client.contact', $data);
+    }
 }
